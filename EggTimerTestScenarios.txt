@@ -1,0 +1,11 @@
+Below are few test scenarios identified
+1. Happy flows for valid values
+2. Use of common values on page
+3. Help and Settings
+4. Values with decimals
+5. special characters in timer text
+6. On countdown page, all buttons.
+7. Sounds
+8. Help
+9. Browser compatibility testing
+10. Connectivity/offline test

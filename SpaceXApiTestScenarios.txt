@@ -1,0 +1,8 @@
+Below things can be checked in API testing
+1. Response code
+2. Response message
+3. Response time
+4. Expected value in response message
+5. End to end functional scenarios- positive as well as negative
+6. Module level functions
+7. Negative test cases such as client errors, server errors, response when wrong data is parsed etc.
